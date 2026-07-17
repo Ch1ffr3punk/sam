@@ -1,0 +1,10 @@
+--- FILE HASHES (RIPEMD-160) ---
+Cargo.toml: 23c80b0105880827914dd6b45af0183ec484f2c8
+LICENSE: 304c26c26e8af4d60f1e0818baa73f8ac9b511fd
+README: 9eebdfb2a985c27e5dcf33e5e3feeada1a3b4548
+src\main.rs: 3b363d0fdd9a65529193eb64dfaff51d0e33ab5a
+src\merge.rs: 6b8434e2480fd35ed7a424f4949ef244b597c618
+src\split.rs: d226a206b759df41e83809db14a14cf76346d87c
+
+--- ROOT HASH (RIPEMD-160) ---
+0be3fc86ae79617a1e2fdabd4a0fe3f746a60ba5

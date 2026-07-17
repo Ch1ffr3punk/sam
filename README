@@ -1,0 +1,13 @@
+$ sam -h
+Split And Merge files (c) 2026 Ch1ffr3punk
+
+Usage: sam [OPTIONS] [FILE]
+
+Arguments:
+  [FILE]
+
+Options:
+  -s, --split <SPLIT_SIZE_MIB>  Split file into chunks of X MiB
+  -m, --merge <MERGE_FILES>...
+  -o, --out <OUTPUT_PATH>       [default: .]
+  -h, --help                    Print help
